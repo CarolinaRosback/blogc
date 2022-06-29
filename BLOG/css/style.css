@@ -1,0 +1,19 @@
+.topo {
+    background-color: azure;
+  }
+  
+  .img {
+    float: left;
+    width: 10px;
+
+  }
+  
+  .titulo-principal,
+  p {
+    font-size: "Open Sans Condensed", "Arial", sans-serif;
+    text-align: center;
+  }
+
+  body{
+    background-color: blue;
+  }
